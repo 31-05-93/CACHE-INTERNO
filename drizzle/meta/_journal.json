@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791833502048,
+      "tag": "0000_fat_gorilla_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791865275689,
+      "tag": "0001_faulty_zaran",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791911486000,
+      "tag": "0002_even_darkhawk",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1791913032851,
+      "tag": "0003_volatile_sumo",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1791919091855,
+      "tag": "0004_chief_lockheed",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1791919437774,
+      "tag": "0005_illegal_doctor_doom",
+      "breakpoints": true
+    }
+  ]
+}
